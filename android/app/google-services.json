@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13836727266",
+    "project_id": "easymath-53fe6",
+    "storage_bucket": "easymath-53fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13836727266:android:48331fdb0cc71bb17fbfbb",
+        "android_client_info": {
+          "package_name": "com.easymath.smartcalculator.unitconverter.basiccalculator.homework.helper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOtbssN8-a7MR1jkBtytAUFzPxieb3Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+export type LangType = "de" | "en" | "es" | "hi" | "id" | "ja" | "ko" | "pt" | "" | string
