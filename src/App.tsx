@@ -44,7 +44,7 @@ if (Platform.OS === 'android') {
 }
 function App(): React.JSX.Element {
   //Change this value to true if you want to test smt
-  const devTest = false;
+  const devTest = true;
   const modalConfig = {
     LoadingModal: LoadingModal,
     ErrorInformModal: ErrorInformModal,
