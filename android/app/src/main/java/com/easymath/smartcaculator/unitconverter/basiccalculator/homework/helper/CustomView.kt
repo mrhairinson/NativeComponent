@@ -14,7 +14,7 @@ class CustomView(context: Context) : FrameLayout(context) {
 
         // add default text view
         addView(TextView(context).apply {
-            text = "Welcome to Android Fragments with React Native."
+            text = "Welcome to Android Fragments with React Native. Ahihi"
         })
     }
 }

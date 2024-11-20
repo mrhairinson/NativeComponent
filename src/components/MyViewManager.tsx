@@ -1,6 +1,6 @@
 import {requireNativeComponent} from 'react-native';
 type NativeType = {
-    style:{}
-}
+  style: {};
+};
 export const MyViewManager =
   requireNativeComponent<NativeType>('MyViewManager');
